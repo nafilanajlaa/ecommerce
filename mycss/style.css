@@ -1,0 +1,39 @@
+:root {
+  --merah:#EE696A;
+}
+
+* body {
+  font-family: "Inter", sans-serif;
+}
+
+.najla {
+  padding-top: 30px;
+}
+.najla nav .container .navbar-brand {
+  color: var(--merah);
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 29px;
+}
+.najla nav .container .navbar-collapse ul {
+  width: 332px;
+  height: 18px;
+}
+.najla nav .container .navbar-collapse ul li {
+  color: #527384;
+  font-weight: 500;
+  font-size: 16px;
+}
+.najla nav .container .btn-outline-success {
+  padding-top: 17px;
+  padding-bottom: 17px;
+  padding-left: 27px;
+  padding-right: 27px;
+  width: 160px;
+  left: 1150px;
+  top: 40px;
+  border-radius: 10px;
+  background-color: #EE696A;
+  border-color: #EE696A;
+  color: white;
+}/*# sourceMappingURL=style.css.map */
